@@ -1,6 +1,5 @@
 Este es el primer archivo del curso de Git
 lo escribo el 2 de mayo del 2022
-Me llamo Luciano tengo 40 años y vivo en culiacan
-Estudie Lic Informatica.
+Me llamo Luciano tengo 40 años y naci en Culiacan
 
 Hola Mundo!!!
